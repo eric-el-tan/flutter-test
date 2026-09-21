@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pdf_redactor.iml" filepath="$PROJECT_DIR$/pdf_redactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/pdf_redactor_android.iml" filepath="$PROJECT_DIR$/android/pdf_redactor_android.iml" />
+    </modules>
+  </component>
+</project>
